@@ -1,12 +1,15 @@
 {
-  "@context": "https://www.w3.org/ns/did/v1",
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/ed25519-2020/v1"
+  ],
   "id": "did:web:wilopv.github.io:blockcerts-did-test-page",
   "verificationMethod": [
     {
       "id": "did:web:wilopv.github.io:blockcerts-did-test-page#key-1",
-      "type": "Ed25519VerificationKey2018",
+      "type": "Ed25519VerificationKey2020",
       "controller": "did:web:wilopv.github.io:blockcerts-did-test-page",
-      "publicKeyBase58": "853SYzgEn2r7HSyYLksyJVha6xPVsc4XeqYASFB1udDp"
+      "publicKeyMultibase": "z6MkmXJV9Evg7aLaPwpF2Kqp9bFZvXfMHVJtLrT6GX92pr1C"
     }
   ],
   "assertionMethod": [
