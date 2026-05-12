@@ -6,7 +6,7 @@
       "id": "did:web:wilopv.github.io:blockcerts-did-test-page#key-1",
       "type": "Ed25519VerificationKey2018",
       "controller": "did:web:wilopv.github.io:blockcerts-did-test-page",
-      "publicKeyBase58": "853SYzgEn2r7HSyYLksyJVha6xPVsc4XeqYASFB1udDp"
+      "publicKeyBase58": "JAwXPvavjDUySKs5NWFg5Mc3m5AKBLwVoLL7vWNQXfJX"
     }
   ],
   "assertionMethod": [
